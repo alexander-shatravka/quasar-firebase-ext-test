@@ -15,6 +15,9 @@ I downgraded "firebase-composables" manually to version 1.0.0-alpha.16 and then 
 So my suggestion - is to make our own custom authorization without these non-stable extensions.
 
 
+For testing authentication, please visit "http://localhost:8080/#/login" and "http://localhost:8080/#/register"
+
+
 # set up Firebase config
 
 ```bash
