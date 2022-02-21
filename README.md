@@ -20,7 +20,7 @@ So my suggestion - is to make our own custom authorization without these non-sta
 ```bash
 cp .env.example .env
 ```
-And past your config for FIRESTORE
+And paste your config for FIRESTORE to the .env file
 
 # Quasar App (firebase-ext-test)
 
