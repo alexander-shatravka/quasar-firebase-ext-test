@@ -15,6 +15,12 @@ I downgraded "firebase-composables" manually to version 1.0.0-alpha.16 and then 
 So my suggestion - is to make our own custom authorization without these non-stable extensions.
 
 
+# set up Firebase config
+
+```bash
+cp .env.example .env
+```
+And past your config for FIRESTORE
 
 # Quasar App (firebase-ext-test)
 
